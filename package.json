@@ -1,0 +1,10 @@
+{
+  "name": "git-pivotal",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Roman Grudzinski",
+  "bin": "post-commit.js",
+  "dependencies": {
+    "request": "~2.27.0"
+  }
+}
