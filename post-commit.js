@@ -41,7 +41,4 @@ exec('git log -1 HEAD', function(err, input, output) {
 		}
 		console.log('Story has finished');
 	});
-})
-
-// 940014
-// export PIVOTAL_TOKEN=32f34847696903bba06adef424f60601 && export PIVOTAL_PROJECT_ID=940014
+});
